@@ -33,9 +33,11 @@ links:
       - 爱心控
 music:
 	enable: true
-	type: playlist
-	id: 542609451
+	type: song
+	id: 536809
 	server: netease
+	volume: 0.1
+	autoplay: true
 ---
 
 ### 欢迎申请友链

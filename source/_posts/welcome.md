@@ -8,6 +8,12 @@ meta:
   header: [title, top]
   footer: false
 sidebar: false
+music:
+	enable: true
+	type: song
+	id: 651194
+	server: netease
+	volume: 0.03
 ---
 
 **我们所度过的每个平凡的日常,也许就是连续发生的奇迹。**
